@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.403,D:\users\zatonskm\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Służbowe\Delphi_Projekty_Priv\Sterownik\driver.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.193,=D:\users\zatonskm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.909,D:\users\zatonskm\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Służbowe\Delphi_Projekty_Priv\Sterownik\Project_driver.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.403,D:\users\zatonskm\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Służbowe\Delphi_Projekty_Priv\Sterownik\driver.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
